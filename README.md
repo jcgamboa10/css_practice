@@ -1,2 +1,2 @@
-# css_practice
-Deliverable 7
+# hw3_simple_css
+Starter code for simple css assignment
